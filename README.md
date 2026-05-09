@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Vasilis
+# Hi there 🔱 My name is Vasilis
 
 ## About Me
 
