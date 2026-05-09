@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 My name is Vasilis
 
-<!--
-**Biligo7/Biligo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a 19-year-old Computer Science student at the Athens University of Economics and Business while also working full-time as a Software Developer at Nokia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable, production software, learning new technologies, and gaining hands-on industry experience.
+
+## Tech Stack
+
+### Languages
+- Go
+- Python
+- Java
+- C / C++
+- SQL
+
+### Technologies & Tools
+- Docker
+- Kubernetes
+- Helm
+- Git, GitHub, GitLab
+- REST APIs
+- Linux
+
+### AI
+- Copilot
+- Cursor
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vasileios-grigoropoulos-30091134a/
