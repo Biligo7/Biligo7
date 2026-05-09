@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a 19-year-old Computer Science student at the Athens University of Economics and Business while also working full-time as a Software Developer at Nokia.
-
-I enjoy building scalable, production software, learning new technologies, and gaining hands-on industry experience.
+19 years old, Computer Science student at AUEB having almost 1 year of experience working full-time as a Software Developer at Nokia. Building scalable, production software, learning new technologies, and gaining hands-on industry experience.
 
 ## Tech Stack
 
