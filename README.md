@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vasilis
+# Hi, I'm Vasilis 🔱
 
 **Computer Science @ AUEB · Software Developer @ Nokia**
 
@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm 19, studying Computer Science at AUEB, and I've been working full-time as a Software Developer at Nokia for almost a year — shipping production systems, picking up new stacks, and learning how things run in industry.
+I'm 19, studying Computer Science at AUEB, and I've been working full-time as a Software Developer at Nokia for a year, shipping production systems, using and learning new stacks and technologies
 
 ---
 
