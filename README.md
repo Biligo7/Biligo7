@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vasilis 🔱
+# Hi, I'm Biligo 🔱
 
 **Computer Science @ AUEB · Software Developer @ Nokia**
 
