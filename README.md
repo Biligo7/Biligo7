@@ -2,7 +2,7 @@
 
 # Hi, I'm Biligo 🔱
 
-**Computer Science @ AUEB · Software Developer @ Nokia**
+**Software Engineer | ex-Nokia | Computer Science @AUEB**
 
 </div>
 
